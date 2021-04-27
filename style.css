@@ -1,0 +1,27 @@
+div.fixed {
+  position: fixed;
+  background-color: white;
+  font-size: 30px;
+  border: 3px solid firebrick;
+}
+
+#redtrash {
+  height: 2000px;
+  width: 500px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  padding: 30px; 
+}
+
+.div1 {
+  background: firebrick;
+}
+
+.div2 {
+  background: rgb(214, 4, 4);
+  font-size: 24px
+  width: 500px;
+}
